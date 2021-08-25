@@ -15,6 +15,8 @@ public class DeletPost {
        String response = res.asString();
        System.out.println(response);
        System.out.println(res.getStatusCode());
+       System.out.println("SONU");
+
 
 
 
